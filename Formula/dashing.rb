@@ -18,7 +18,7 @@ class Dashing < Formula
   # Use ruby docs just as dummy documentation to test with
   resource "ruby_docs_tarball" do
     url "https://ruby-doc.org/downloads/ruby_2_5_0_core_rdocs.tgz"
-    sha256 "219e171641e979a5c8dee1b63347a1a26b94ba648aec96f7e6ed915d12bcaa15"
+    sha256 "017d402805eecfb7638bcf92831c915d02dccaacb947fdbe4016edf1a2eff95c"
   end
 
   def install
